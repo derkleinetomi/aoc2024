@@ -1,1 +1,2 @@
-# aoc29024
+# aoc2024
+my solutions for 2024's advent of code
